@@ -1,6 +1,6 @@
 # QuantumOption
 
-This program is for use with the paper A Quantum Walk Model of Financial Options, by David Orrell.
+This is a Shiny app for use with the paper A Quantum Walk Model of Financial Options, by David Orrell.
 See: https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3512481
 
 The program can be used to compare call option prices calculated using the classical binomial model and the quantum walk model.
